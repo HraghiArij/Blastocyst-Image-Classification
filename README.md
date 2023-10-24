@@ -6,7 +6,9 @@
  The key distinguishing feature of these deep learning models lies in their ability to automatically learn and extract meaningful features from blastocyst images. This holds the potential to significantly enhance the efficiency and consistency of the quality assessment
  process.
  In the evaluation of these deep learning models, I employed critical performance metrics such as accuracy, loss, precision and recall. With the xception architecture, we achieved 83,78% accuracy in the Expansion classification, 81%,08 in the ICM classification and 77%.30 in the TE classification.
+ 
  Key words : Deep learning, IVF, Time-lapse imaging, Automated blastocyst grading, Image processing...
+
  A blastocyst is a ball of cells that forms early, about five to six days after a sperm fertilizes an egg eventually becoming the embryo and then the fetus. Blastocysts are given a quality grade for each of the 3 components and the score is expressed with the expansion EXP(Expansion) grade listed first, the inner cell mass ICM grade listed second and the trophectoderm TE grade third. Here is a little break down to the embryo structure in
  the following figure:
  <p align="center" width="100%">
